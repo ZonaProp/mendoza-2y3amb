@@ -1,1 +1,6 @@
-PLACEHOLDER
+id,title,price,zona,m2,ambientes,dormitorios,main_photo
+001,Departamento 2 amb. en Gobernador Benegas,$ 100.000,Gobernador Benegas,36 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/01-2026/ad15219/eFJfGuFqGVyp.webp
+002,Departamento 2 amb. en Barraquero + Cochera,$ 100.000,Barraquero,45 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/07-2025/ad15185/1753724218948.jpg
+003,Departamento 3 amb. en San José + Cochera,$ 100.000,San José,74 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/06-2026/ad18038/XuAazzNsXPBz.webp
+004,Departamento 2 amb. en Godoy Cruz,$ 2.915.013,Godoy Cruz,52 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/05-2025/ad14776/1747449308545.jpeg
+005,Departamento 3 amb. en Guaymallén,$ 100.000,Guaymallén,55 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/03-2025/ad14339/1741456560108.jpg
