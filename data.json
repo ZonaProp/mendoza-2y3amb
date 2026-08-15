@@ -1,1 +1,29 @@
-PLACEHOLDER
+[
+  {
+    "title": "Departamento 2 amb. en Gobernador Benegas",
+    "price": "$ 100.000",
+    "main": "https://www.bullano.com.ar/files/01-2026/ad15219/eFJfGuFqGVyp.webp",
+    "photos": [
+      "https://www.bullano.com.ar/files/01-2026/ad15219/eFJfGuFqGVyp.webp",
+      "https://www.bullano.com.ar/files/01-2026/ad15219/SQxOsnqVTAEZ.webp",
+      "https://www.bullano.com.ar/files/01-2026/ad15219/EjqYHUcXEazS.webp",
+      "https://www.bullano.com.ar/files/01-2026/ad15219/ySlpHCYDpEur.webp",
+      "https://www.bullano.com.ar/files/01-2026/ad15219/ZchfnnMzlrej.webp",
+      "https://www.bullano.com.ar/files/01-2026/ad15219/lrdCiEqHbRiI.webp",
+      "https://www.bullano.com.ar/files/01-2026/ad15219/wwOUvHpwiLGU.webp",
+      "https://www.bullano.com.ar/files/01-2026/ad15219/XGHBYGmzJATt.webp",
+      "https://www.bullano.com.ar/files/01-2026/ad15219/qzlNFDbXznpR.webp",
+      "https://www.bullano.com.ar/files/07-2023/ad10241/1690169392773.jpg",
+      "https://www.bullano.com.ar/files/07-2023/ad10297/1690844921982.jpg",
+      "https://www.bullano.com.ar/files/08-2023/ad10311/1691000108128.jpg"
+    ],
+    "zona": "Gobernador Benegas",
+    "m2": "36 m²",
+    "ambientes": "2 amb.",
+    "dormitorios": "1 dorm.",
+    "banos": "",
+    "features": [],
+    "desc": "Excelente departamento de 2 amb. ubicado en Gobernador Benegas, Mendoza. 36 m² totales. 1 dorm.. Sobre Calle Sarmiento 970. Ideal para vivir o invertir. Zona residencial con buena conectividad.",
+    "id": "001"
+  }
+]
