@@ -3,4 +3,99 @@ id,title,price,zona,m2,ambientes,dormitorios,main_photo
 002,Departamento 2 amb. en Barraquero + Cochera,$ 100.000,Barraquero,45 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/07-2025/ad15185/1753724218948.jpg
 003,Departamento 3 amb. en San José + Cochera,$ 100.000,San José,74 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/06-2026/ad18038/XuAazzNsXPBz.webp
 004,Departamento 2 amb. en Godoy Cruz,$ 2.915.013,Godoy Cruz,52 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/05-2025/ad14776/1747449308545.jpeg
-005,Departamento 3 amb. en Guaymallén,$ 100.000,Guaymallén,55 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/03-2025/ad14339/1741456560108.jpg
+005,Departamento 3 amb. en Dorrego,$990.000,Dorrego,55 m²,3 amb.,1 dorm.,https://www.bullano.com.ar/files/05-2026/ad17876/FyquyhEUlzbe.webp
+006,Departamento 2 amb. en Maipú,$ 990.000,Maipú,73 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/08-2026/ad18445/lcJQXGsRUhzk.webp
+007,Departamento 2 amb. en Godoy Cruz + Cochera,$750.000,Godoy Cruz,40 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/06-2026/ad18158/NMjlKeNymRyX.webp
+008,Departamento 2 amb. en Primera Sección,$ 2.497.509,Primera Sección,38 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/11-2025/ad15360/1763152407080.jpg
+009,Departamento 3 amb. en Villa Marini,$ 2.175.015,Villa Marini,61 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/05-2025/ad14832/1748382105662.jpg
+010,Departamento 2 amb. en Quinta Sección,$ 2.125.008,Quinta Sección,35 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/12-2025/ad16451/1764834953027.jpg
+011,Departamento 3 amb. en San José + Cochera,$600.000,San José,70 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/07-2025/ad15020/1751687947614.jpg
+012,Departamento 3 amb. en Ciudad de Mendoza,$65.000,Ciudad de Mendoza,46 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/07-2026/ad18238/ebsucThbosiS.webp
+013,Departamento 3 amb. en Dorrego,$ 100.000,Dorrego,50 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/09-2025/ad15616/1757525675304.jpg
+014,Departamento 3 amb. en Villa Nueva,$ 100.000,Villa Nueva,64 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/02-2026/ad16950/WMrFxrMKhNdX.webp
+015,Departamento 3 amb. en San José,$ 2.225.014,San José,59 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/11-2025/ad15423/1763868321162.jpg
+016,Departamento 2 amb. en Dorrego,$ 1.497.509,Dorrego,38 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/12-2025/ad16593/qgrTccZPySOd.webp
+017,Departamento 3 amb. en Sexta Sección,$ 1.000.000,Sexta Sección,60 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/04-2026/ad17679/YFOSvFHVpgvX.webp
+018,Departamento 2 amb. en Godoy Cruz,$ 1.000.000,Godoy Cruz,40 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/05-2026/ad17800/something.webp
+019,Departamento 2 amb. en Villa Marini,$ 100.000,Villa Marini,43 m²,2 amb.,2 dorm.,https://www.bullano.com.ar/files/02-2026/ad16929/cpeYfUvArXXW.webp
+020,Departamento 2 amb. en Luján de Cuyo,$ 630.000,Luján de Cuyo,38 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/08-2026/ad18470/XHJvCrdtfsyh.webp
+021,Departamento 3 amb. en Guaymallén,$ 100.000,Guaymallén,55 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/03-2025/ad14339/1741456560108.jpg
+022,Departamento 2 amb. en Ciudad de Mendoza,$ 100.000,Ciudad de Mendoza,35 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/04-2026/ad17607/HjBuuzPogckT.webp
+023,Departamento 3 amb. en Luján de Cuyo,$160.000,Luján de Cuyo,70 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/07-2025/ad15204/1753965096.jpg
+024,Departamento 2 amb. en Guaymallén,$590.000,Guaymallén,45 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/07-2026/ad18335/HsRoUXJRagdN.webp
+025,Departamento 3 amb. en Barraquero + Cochera,$800.000,Barraquero,70 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/02-2026/ad16912/pTKKzvraaoXw.webp
+026,Departamento 2 amb. en San José,$ 1.247.505,San José,20 m²,2 amb.,2 dorm.,https://www.bullano.com.ar/files/07-2026/ad18321/vOecEuzPWLAS.webp
+027,Departamento 3 amb. en Guaymallén,$ 100.000,Guaymallén,55 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/03-2025/ad14339/1741456560108.jpg
+028,Departamento 2 amb. en Gobernador Benegas,$ 100.000,Gobernador Benegas,36 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/01-2026/ad15219/eFJfGuFqGVyp.webp
+029,Departamento 2 amb. en Barraquero + Cochera,$ 100.000,Barraquero,45 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/07-2025/ad15185/1753724218948.jpg
+030,Departamento 3 amb. en San José + Cochera,$ 100.000,San José,74 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/06-2026/ad18038/XuAazzNsXPBz.webp
+031,Departamento 2 amb. en Godoy Cruz,$ 2.915.013,Godoy Cruz,52 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/05-2025/ad14776/1747449308545.jpeg
+032,Departamento 3 amb. en Dorrego,$990.000,Dorrego,55 m²,3 amb.,1 dorm.,https://www.bullano.com.ar/files/05-2026/ad17876/FyquyhEUlzbe.webp
+033,Departamento 2 amb. en Maipú,$ 990.000,Maipú,73 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/08-2026/ad18445/lcJQXGsRUhzk.webp
+034,Departamento 2 amb. en Godoy Cruz + Cochera,$750.000,Godoy Cruz,40 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/06-2026/ad18158/NMjlKeNymRyX.webp
+035,Departamento 2 amb. en Primera Sección,$ 2.497.509,Primera Sección,38 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/11-2025/ad15360/1763152407080.jpg
+036,Departamento 3 amb. en Villa Marini,$ 2.175.015,Villa Marini,61 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/05-2025/ad14832/1748382105662.jpg
+037,Departamento 2 amb. en Quinta Sección,$ 2.125.008,Quinta Sección,35 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/12-2025/ad16451/1764834953027.jpg
+038,Departamento 3 amb. en San José + Cochera,$600.000,San José,70 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/07-2025/ad15020/1751687947614.jpg
+039,Departamento 3 amb. en Ciudad de Mendoza,$65.000,Ciudad de Mendoza,46 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/07-2026/ad18238/ebsucThbosiS.webp
+040,Departamento 3 amb. en Dorrego,$ 100.000,Dorrego,50 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/09-2025/ad15616/1757525675304.jpg
+041,Departamento 3 amb. en Villa Nueva,$ 100.000,Villa Nueva,64 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/02-2026/ad16950/WMrFxrMKhNdX.webp
+042,Departamento 3 amb. en San José,$ 2.225.014,San José,59 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/11-2025/ad15423/1763868321162.jpg
+043,Departamento 2 amb. en Dorrego,$ 1.497.509,Dorrego,38 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/12-2025/ad16593/qgrTccZPySOd.webp
+044,Departamento 3 amb. en Sexta Sección,$800.000,Sexta Sección,,3 amb.,2 dorm.,https://www.bullano.com.ar/files/04-2026/ad17679/YFOSvFHVpgvX.webp
+045,Departamento 2 amb. en Guaymallén,$590.000,Guaymallén,45 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/07-2026/ad18335/HsRoUXJRagdN.webp
+046,Departamento 3 amb. en Barraquero + Cochera,$800.000,Barraquero,70 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/02-2026/ad16912/pTKKzvraaoXw.webp
+047,Departamento 2 amb. en San José,$ 1.247.505,San José,20 m²,2 amb.,2 dorm.,https://www.bullano.com.ar/files/07-2026/ad18321/vOecEuzPWLAS.webp
+048,Departamento 3 amb. en Guaymallén,$ 100.000,Guaymallén,55 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/03-2025/ad14339/1741456560108.jpg
+049,Departamento 2 amb. en Ciudad de Mendoza,$ 100.000,Ciudad de Mendoza,35 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/04-2026/ad17607/HjBuuzPogckT.webp
+050,Departamento 3 amb. en Luján de Cuyo,$160.000,Luján de Cuyo,70 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/07-2025/ad15204/1753965096.jpg
+051,Departamento 2 amb. en Gobernador Benegas,$ 100.000,Gobernador Benegas,36 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/01-2026/ad15219/eFJfGuFqGVyp.webp
+052,Departamento 2 amb. en Barraquero + Cochera,$ 100.000,Barraquero,45 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/07-2025/ad15185/1753724218948.jpg
+053,Departamento 3 amb. en San José + Cochera,$ 100.000,San José,74 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/06-2026/ad18038/XuAazzNsXPBz.webp
+054,Departamento 2 amb. en Godoy Cruz,$ 2.915.013,Godoy Cruz,52 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/05-2025/ad14776/1747449308545.jpeg
+055,Departamento 3 amb. en Dorrego,$990.000,Dorrego,55 m²,3 amb.,1 dorm.,https://www.bullano.com.ar/files/05-2026/ad17876/FyquyhEUlzbe.webp
+056,Departamento 2 amb. en Maipú,$ 990.000,Maipú,73 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/08-2026/ad18445/lcJQXGsRUhzk.webp
+057,Departamento 2 amb. en Godoy Cruz + Cochera,$750.000,Godoy Cruz,40 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/06-2026/ad18158/NMjlKeNymRyX.webp
+058,Departamento 2 amb. en Primera Sección,$ 2.497.509,Primera Sección,38 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/11-2025/ad15360/1763152407080.jpg
+059,Departamento 3 amb. en Villa Marini,$ 2.175.015,Villa Marini,61 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/05-2025/ad14832/1748382105662.jpg
+060,Departamento 2 amb. en Quinta Sección,$ 2.125.008,Quinta Sección,35 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/12-2025/ad16451/1764834953027.jpg
+061,Departamento 3 amb. en San José + Cochera,$600.000,San José,70 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/07-2025/ad15020/1751687947614.jpg
+062,Departamento 3 amb. en Ciudad de Mendoza,$65.000,Ciudad de Mendoza,46 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/07-2026/ad18238/ebsucThbosiS.webp
+063,Departamento 3 amb. en Dorrego,$ 100.000,Dorrego,50 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/09-2025/ad15616/1757525675304.jpg
+064,Departamento 3 amb. en Villa Nueva,$ 100.000,Villa Nueva,64 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/02-2026/ad16950/WMrFxrMKhNdX.webp
+065,Departamento 3 amb. en San José,$ 2.225.014,San José,59 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/11-2025/ad15423/1763868321162.jpg
+066,Departamento 2 amb. en Dorrego,$ 1.497.509,Dorrego,38 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/12-2025/ad16593/qgrTccZPySOd.webp
+067,Departamento 3 amb. en Sexta Sección,$800.000,Sexta Sección,,3 amb.,2 dorm.,https://www.bullano.com.ar/files/04-2026/ad17679/YFOSvFHVpgvX.webp
+068,Departamento 2 amb. en Guaymallén,$590.000,Guaymallén,45 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/07-2026/ad18335/HsRoUXJRagdN.webp
+069,Departamento 3 amb. en Barraquero + Cochera,$800.000,Barraquero,70 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/02-2026/ad16912/pTKKzvraaoXw.webp
+070,Departamento 2 amb. en San José,$ 1.247.505,San José,20 m²,2 amb.,2 dorm.,https://www.bullano.com.ar/files/07-2026/ad18321/vOecEuzPWLAS.webp
+071,Departamento 3 amb. en Guaymallén,$ 100.000,Guaymallén,55 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/03-2025/ad14339/1741456560108.jpg
+072,Departamento 2 amb. en Ciudad de Mendoza,$ 100.000,Ciudad de Mendoza,35 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/04-2026/ad17607/HjBuuzPogckT.webp
+073,Departamento 3 amb. en Luján de Cuyo,$160.000,Luján de Cuyo,70 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/07-2025/ad15204/1753965096.jpg
+074,Departamento 2 amb. en Gobernador Benegas,$ 100.000,Gobernador Benegas,36 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/01-2026/ad15219/eFJfGuFqGVyp.webp
+075,Departamento 2 amb. en Barraquero + Cochera,$ 100.000,Barraquero,45 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/07-2025/ad15185/1753724218948.jpg
+076,Departamento 3 amb. en San José + Cochera,$ 100.000,San José,74 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/06-2026/ad18038/XuAazzNsXPBz.webp
+077,Departamento 2 amb. en Godoy Cruz,$ 2.915.013,Godoy Cruz,52 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/05-2025/ad14776/1747449308545.jpeg
+078,Departamento 3 amb. en Dorrego,$990.000,Dorrego,55 m²,3 amb.,1 dorm.,https://www.bullano.com.ar/files/05-2026/ad17876/FyquyhEUlzbe.webp
+079,Departamento 2 amb. en Maipú,$ 990.000,Maipú,73 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/08-2026/ad18445/lcJQXGsRUhzk.webp
+080,Departamento 2 amb. en Godoy Cruz + Cochera,$750.000,Godoy Cruz,40 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/06-2026/ad18158/NMjlKeNymRyX.webp
+081,Departamento 2 amb. en Primera Sección,$ 2.497.509,Primera Sección,38 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/11-2025/ad15360/1763152407080.jpg
+082,Departamento 3 amb. en Villa Marini,$ 2.175.015,Villa Marini,61 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/05-2025/ad14832/1748382105662.jpg
+083,Departamento 2 amb. en Quinta Sección,$ 2.125.008,Quinta Sección,35 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/12-2025/ad16451/1764834953027.jpg
+084,Departamento 3 amb. en San José + Cochera,$600.000,San José,70 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/07-2025/ad15020/1751687947614.jpg
+085,Departamento 3 amb. en Ciudad de Mendoza,$65.000,Ciudad de Mendoza,46 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/07-2026/ad18238/ebsucThbosiS.webp
+086,Departamento 3 amb. en Dorrego,$ 100.000,Dorrego,50 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/09-2025/ad15616/1757525675304.jpg
+087,Departamento 3 amb. en Villa Nueva,$ 100.000,Villa Nueva,64 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/02-2026/ad16950/WMrFxrMKhNdX.webp
+088,Departamento 3 amb. en San José,$ 2.225.014,San José,59 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/11-2025/ad15423/1763868321162.jpg
+089,Departamento 2 amb. en Dorrego,$ 1.497.509,Dorrego,38 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/12-2025/ad16593/qgrTccZPySOd.webp
+090,Departamento 3 amb. en Sexta Sección,$800.000,Sexta Sección,,3 amb.,2 dorm.,https://www.bullano.com.ar/files/04-2026/ad17679/YFOSvFHVpgvX.webp
+091,Departamento 2 amb. en Guaymallén,$590.000,Guaymallén,45 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/07-2026/ad18335/HsRoUXJRagdN.webp
+092,Departamento 3 amb. en Barraquero + Cochera,$800.000,Barraquero,70 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/02-2026/ad16912/pTKKzvraaoXw.webp
+093,Departamento 2 amb. en San José,$ 1.247.505,San José,20 m²,2 amb.,2 dorm.,https://www.bullano.com.ar/files/07-2026/ad18321/vOecEuzPWLAS.webp
+094,Departamento 3 amb. en Guaymallén,$ 100.000,Guaymallén,55 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/03-2025/ad14339/1741456560108.jpg
+095,Departamento 2 amb. en Ciudad de Mendoza,$ 100.000,Ciudad de Mendoza,35 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/04-2026/ad17607/HjBuuzPogckT.webp
+096,Departamento 3 amb. en Luján de Cuyo,$160.000,Luján de Cuyo,70 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/07-2025/ad15204/1753965096.jpg
+097,Departamento 2 amb. en Guaymallén,$590.000,Guaymallén,45 m²,2 amb.,1 dorm.,https://www.bullano.com.ar/files/07-2026/ad18335/HsRoUXJRagdN.webp
+098,Departamento 3 amb. en Barraquero + Cochera,$800.000,Barraquero,70 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/02-2026/ad16912/pTKKzvraaoXw.webp
+099,Departamento 2 amb. en San José,$ 1.247.505,San José,20 m²,2 amb.,2 dorm.,https://www.bullano.com.ar/files/07-2026/ad18321/vOecEuzPWLAS.webp
+100,Departamento 3 amb. en Guaymallén,$ 100.000,Guaymallén,55 m²,3 amb.,2 dorm.,https://www.bullano.com.ar/files/03-2025/ad14339/1741456560108.jpg
